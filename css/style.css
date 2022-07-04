@@ -30,10 +30,6 @@ section{
     font-size: 20px;
     padding-top: 30px;
 }
-.banner{
-    background-image: url("./images/top-banner.png");
-    background-repeat: no-repeat;
-}
 .button{
     text-decoration: none;
     color: white;
@@ -41,4 +37,7 @@ section{
     background-image: linear-gradient(orange, red);
     padding: 10px 30px;
     border-radius: 5px;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
 }
