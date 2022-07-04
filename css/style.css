@@ -11,6 +11,9 @@ h1{
 .orange{
     color: orange;
 }
+p{
+    font-weight: 400;
+}
 section{
     display: flex;
     margin-left: 40px;
@@ -25,4 +28,17 @@ section{
 }
 .text{
     font-size: 20px;
+    padding-top: 30px;
+}
+.banner{
+    background-image: url("./images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-color: orange;
+    background-image: linear-gradient(orange, red);
+    padding: 10px 30px;
+    border-radius: 5px;
 }
