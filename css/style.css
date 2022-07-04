@@ -14,7 +14,6 @@ h1{
 }
 .flexible-container{
     display: flex;
-    margin-left: 5px;
     padding: 10px 30px;
 }
 .half-width{
